@@ -3,8 +3,8 @@
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hola! Soy Diego, tambien conocido como <a href="https://k0n0sc3nt.github.io/">k0n0sc3nt</a>!</strong></h1>
  <h3><ul align="left">
-  <li>Soy un Consultor de TI con una gran pasion por la ciberseguridad, donde destaco en pruebas de penetración, evaluaciones de seguridad en infraestructura crítica y análisis de seguridad física.</li>
-  <li>Me encanta explorar nuevas ideas y compartir mis conocimientos a través de publicaciones de mi blog.</li>
+  <li>Soy un Consultor de TIC con una gran pasión por la ciberseguridad, especificamente en pruebas de penetración, evaluaciones de seguridad en infraestructura crítica y análisis de seguridad física.</li>
+  <li>Me encanta explorar nuevas ideas y compartir mis conocimientos a través de publicaciones en mi blog.</li>
   <li>Mi objetivo es enseñar técnicas complejas en pasos simples, facilitando así su comprensión y aprendizaje para todos.</li>
 </ul></h3>
 
